@@ -1,0 +1,2 @@
+# controldestock
+Control de stock
